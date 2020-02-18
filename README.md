@@ -1,5 +1,7 @@
 # Spelling Bee
- 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Yoyomanzoor/Spelling-Bee/master?filepath=Spelling%20Bee.ipynb)
+
 Code to take a list of words and turn it into a Spelling bee.
 
 Word list must be provided in the following format:
