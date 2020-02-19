@@ -94,7 +94,7 @@
 1 Balloon is an inflated bag.
 3 Banquette is a long bench with an upholstered seat.
 1 Barbiturate is used to medicine as a sedative.
-1 Baroque pertains to architecture and art from 17th century Italy.
+2 Baroque pertains to architecture and art from 17th century Italy.
 1 Barracuda is a long, predaceous fish.
 1 Barrette is a clasp used to hold a girl's hair in place.
 3 Bassarisk is a carnivorous mammal.
@@ -339,7 +339,7 @@
 1 Fascinate is to attract and hold attentively.
 1 Fatigue is weariness from exertion.
 1 Faucet is a device to control the flow of liquid.
-1 Fauna are the animals of a region considered as a whole.
+2 Fauna are the animals of a region considered as a whole.
 1 Feasible is capable of being done.
 1 Feign is to represent fictitiously.
 1 Feint is a movement made to deceive an opponent.
@@ -650,9 +650,9 @@
 2 Knoll is a small, rounded hill.
 1 Knowledge is acquaintance with facts, as from study or investigation.
 1 Knuckle is a joint of the finger.
-2 Kowtow is to show servile deference.
+2 Kowtow is to show servile deference
 3 Kymatology, the study of waves or wave motions
-1 Labor is productive activity for the sake of economic gain.
+1 Labour is productive activity for the sake of economic gain.
 3 Labyrinth is an intricate combination of paths in which it is difficult to find the exit.
 2 Lacerate is to tear roughly; mangle.
 3 Lachrymal is of or pertaining to tears.
@@ -819,3 +819,888 @@
 2 Mufti are civilian clothes.
 3 Multiplicand is a number to be multiplied by another.
 2 Municipal is of or pertaining to a town or city or its government.
+3 Munificent means one who is very generous.
+1 Muscle is a tissue, the contraction of which produces movement.
+2 Mycology, the study of fungi
+3 Myology, the scientific study of muscles
+2 Myriad is a very great or indefinitely great number.
+3 Myrmecology, the study of ants
+4 Myrrh is an aromatic resinous exudation from certain plants.
+2 Mysterious is full of or involving mystery.
+2 Mystique is an aura of mystery or mystical power surrounding a particular occupation or pursuit.
+1 Myth is a traditional or legendary story, usually concerning some being or hero, without a determinable basis of fact.
+1 Naive means unsophisticated or ingenuous.
+3 Nanotechnology, the study of machines at the molecular level
+3 Nanotribology, the study of friction on the molecular and atomic scale
+5 Naphtha (naftha) is a colorless, volatile petroleum distillate.
+2 Narcissism is excessive self-love; vanity.
+2 Nasal is of or pertaining to the nose.
+2 Nascent is beginning to exist or develop.
+1 Naughty means disobedient or mischievous.
+2 Nausea is sickness at the stomach, especially when loathing food.
+2 Nebulous is hazy, vague or indistinct.
+2 Necessary is being essential; indispensable.
+1 Nectar is the secretion of a plant, which attracts insects or birds that pollinate the flower.
+2 Neigh is to utter the cry of a horse; to whinny.
+3 Nematology, the study of nematodes
+3 Nemesis is something a person can't conquer.
+3 Neonatology, the study of newborn infants
+1 Nephew is a son of one's brother or sister.
+4 Nephology, the study of clouds
+2 Nephrology, the study of the kidneys
+2 Nestle is to lie close and snug.
+2 Neurology, the study of nerves
+2 Neuropathology, the study of neural diseases
+2 Neurophysiology, the study of the functions of the nervous system
+2 Neuter is gender that is neither masculine nor feminine.
+1 Newt is a brilliantly colored salamander.
+2 Nexus is a means of connection; a tie; a link.
+2 Niche is an ornamental recess in a wall.
+1 Nickel is a coin of the U.S., 20 of which make a dollar.
+1 Nickelodeon is an early motion-picture theater.
+2 Nicotine is an alkaloid found in tobacco and valued as an insecticide.
+2 Nigh means near in space, time or relation.
+3 Nihilism is total rejection of established laws and institutions.
+1 Noble is distinguished by rank or title.
+2 Nocturnal is of or pertaining to the night.
+3 Nomenclature are names or terms comprising a set or system.
+4 Nonce is the present, or immediate, occasion or purpose.
+3 Nonchalant is coolly unconcerned, unexcited.
+4 Nonpareil is having no equal.
+3 Nosology, the study of disease classification
+5 Nouveau is newly or recently created, developed, or come to prominence.
+2 Novice is a person who is new to something.
+2 Noxious is harmful or injurious to health.
+2 Nuance is a subtle difference in meaning.
+2 Nucleus is the core.
+2 Nuisance is an obnoxious or annoying person.
+4 Nuptial is of or pertaining to marriage or the ceremony.
+2 Nurture is to feed and protect.
+2 Nutritious is providing nourishment, especially to a high degree.
+1 Nylons are stockings worn by women.
+3 Obeisance is a bow or a curtsy.
+2 Obelisk is a tapering, four-sided shaft of stone, with a pyramidal top.
+1 Obese means very fat or overweight.
+1 Obey is to follow the directions of someone.
+2 Obituary is the notice of the death of a person.
+3 Objurgate is to denounce vehemently; to upbraid sharply.
+2 Oblique means slanting; sloping.
+2 Oblivious means unaware of.
+4 Obloquy is abusive language aimed at a person.
+3 Obnoxious is highly objectionable or offensive.
+4 Obsequious showing servile deference; fawning on someone.
+3 Obsolescent means passing out of use, as a word.
+4 Obstreperous means unruly.
+2 Obvious is easily understood or recognizable.
+2 Occlude is to close, shut, or stop up.
+2 Occurrence is the action, fact or instance of happening.
+2 Oceanology, the study of oceans
+2 Ocelot is a spotted, leopard-like cat, ranging from Texas to South America.
+3 Odious is hateful or detestable.
+3 Odonatology, the study of dragonflies and damselflies
+3 Odontology, the study of the teeth
+3 Ogle is to look at impertinently.
+2 Ogre is a monster in fairy tales.
+4 Oleaginous means having the nature or qualities of oil.
+2 Omission is the act of omitting.
+3 Omniscience  is infinite knowledge.
+2 Oncology, the study of cancer
+3 Onerous is burdensome or troublesome.
+2 Onyx is black.
+3 Oology, the study of eggs
+4 Opalesce is to exhibit a play of colors like that of the opal.
+2 Opaque is not allowing light to pass through.
+2 Operator is a person who runs a machine, apparatus or the like.
+3 Ophthalmology is the branch of medicine dealing with anatomy, functions and diseases of the eye.
+5 Opprobrious is outrageously disgraceful or shameful.
+3 Orator is a public speaker.
+2 Orchestra is a group of performers on various musical instruments.
+2 Orchid is a flower of a plant of temperate and tropical regions.
+3 Ordinance is a decree or command.
+3 Ordnance is cannon or artillery.
+3 Ornithology, the study of birds
+2 Orology, the study of mountains and their mapping
+1 Orphan is a child who has lost both parents through death.
+4 Orthopterology, the study of grasshoppers and crickets
+3 Oscillate is to swing or move to and fro, as a pendulum.
+2 Osteology, the study of bones
+3 Ostracism is exclusion from social acceptance.
+3 Otolaryngology, the study of the ear and throat
+3 Otology, the study of the ear
+3 Otorhinolaryngology, the study of the ear, nose and throat
+2 Outweigh is to exceed in value or influence.
+3 Overwrought is extremely excited or agitated.
+1 Oxygen is the element constituting about one-fifth of the atmosphere.
+1 Oxymoron is a seemingly contradictory figure of speech, like cruel kindness.
+3 Pachyderm is an elephant.
+1 Pacifist is a person who is opposed to war or to violence of any kind.
+1 Pact is an agreement, covenant or compact.
+4 Paean is a song of praise, joy or triumph.
+2 Pageant is an elaborate public spectacle.
+1 Palace is the official residence of an exalted person.
+2 Palate is the roof of the mouth.
+3 Paleoanthropology, the study of prehistoric people and human origins
+3 Paleobiology, the study of prehistoric life
+3 Paleobotany, the study of prehistoric metaphytes
+3 Paleoclimatology, the study of prehistoric climates
+3 Paleoecology, the study of prehistoric environments by analyzing fossils and rock strata
+3 Paleontology, the study of fossils of ancient life
+4 Paleophytology, the study of ancient multicellular plants
+3 Paleozoology, the study of prehistoric metazoans
+2 Palette is a board with a thumb hole, used by painters to mix colors.
+4 Palomino is a horse with a golden coat, and a white mane and tail.
+3 Palynology, the study of pollen
+2 Pamphlet is a short essay, generally controversial, on some subject of contemporary interest.
+3 Panacea is a remedy for all disease or ills.
+3 Panache is a grand or flamboyant manner.
+4 Panegyric is a lofty oration in praise of a person or thing.
+3 Panoply is a wide-ranging and impressive array or display.
+3 Pantomime is the art of conveying things through gestures, without speech.
+1 Pantry is a room in which food is kept.
+3 Papacy is the office, dignity or jurisdiction of the pope.
+1 Papaya is a large, yellow, melonlike fruit.
+1 Paprika is a red, powdery condiment.
+2 Papyrus is a tall, aquatic plant, native to the Nile valley.
+3 Parable is a short story designed to illustrate some truth.
+3 Paraffin is a substance used in candles or to waterproof paper.
+1 Parallel is extending in the same direction, but never converging.
+1 Paralysis is a loss of movement in a body part, caused by disease or injury.
+3 Paraphernalia is apparatus necessary for a particular activity.
+2 Parapsychology, the study of paranormal or psychic phenomenon that defy conventional scientific explanations
+2 Parasitology, the study of parasites
+1 Parcel is a small package, a bundle.
+2 Parfait is a dessert of ice cream and fruit, or ice cream and syrup.
+2 Pariah is an outcast.
+2 Parishioner is one of the inhabitants of a parish.
+2 Parlance is a way or manner of speaking.
+3 Parochial is of or pertaining to a parish or parishes.
+1 Parody is a humorous imitation of a serious piece of literature.
+3 Parquet is a floor composed of strips or blocks of wood forming a pattern.
+1 Parry is to ward off a thrust, as in fencing.
+3 Parsec is a unit of distance equal to 3.26 light-years.
+1 Partial means incomplete.
+1 Particle is a tine or very small bit.
+1 Partition is a division into portions or shares.
+1 Pasture is grass used to feed livestock.
+2 Patella is the kneecap.
+1 Pathology, the study of illness
+2 Patience is the quality of being patient.
+1 Patio is an area of a house used for outdoor lounging, dining, etc.
+2 Patriarch is the male head of a family or tribal line.
+2 Patrician is a person of noble rank; an aristocrat.
+2 Paunchy is having a large and protruding belly.
+1 Pause is a temporary stop or rest.
+2 Pavilion is a building used for shelter, concerts, or exhibits.
+1 Paws are the feet of an animal having claws.
+1 Peace is a country's condition when not involved in war.
+1 Peak is the pointed top of a mountain.
+3 Peccadillo is a very minor or slight sin or offense.
+3 Peccary is a piglike hoofed animal of north and south America.
+1 Pedal is a foot-operated lever used for various things.
+1 Peddle is to carry things from place to place for sale.
+1 Pedestrian is a person who goes on foot.
+1 Peek is to look or glance quickly or furtively.
+3 Peignoir is a woman's dressing gown.
+2 Penchant is a strong inclination or liking for something.
+2 Pendulous is hanging down loosely.
+1 Penguin is a flightless bird of the Southern Hemisphere.
+2 Penicillin is an antibiotic of low toxicity.
+3 Penitentiary is a prison maintained for serious offenders.
+2 Pension is a fixed amount other than a salary paid to a person.
+2 Penultimate the next to the last.
+2 Penury is extreme poverty.
+2 Perceive is to become aware of.
+2 Perceptive is having or showing keenness of insight, understanding or intuition.
+2 Perennial is lasting for a long time; enduring.
+3 Perfidy is a deliberate breach of trust; treachery.
+3 Perihelion is the point at which a planet is closest to the sun.
+2 Periphery is the external boundary of any area.
+2 Perjury is lying under oath.
+4 Perniciou means ruinous; injurious; hurtful.
+1 Perplex is to cause to be puzzled over what is not understood.
+3 Perquisite is a gratuity or tip.
+2 Perseverance is doggedness, steadfastness.
+2 Personnel is a body of persons employed in an organization or place or work.
+3 Perspicuous is clearly expressed or presented.
+1 Persuade is to prevail on a person to do something.
+1 Perturb is to disturb in mind; agitate.
+1 Peruse is to read through with care.
+2 Pesticide is a chemical preparation to destroy pests.
+2 Pestle is a tool to grind substances in a mortar.
+1 Petite means short or diminutive.
+1 Petition is a formally drawn request.
+3 Petrology, the study of rocks and the conditions by which they form
+3 Phalanx is a body of troops in close array.
+2 Phantom is an apparition or specter.
+3 Pharmaceutical pertains to pharmacy or pharmacists.
+2 Pharmacology, the study of drugs
+1 Phase is a stage in a process of change or development.
+2 Phenology, the study of periodic biological phenomena
+2 Phenomenon is a fact or occurrence observed or observable.
+2 Philosopher is one who offers views on profound subjects.
+3 Phlebology, a branch of medicine that deals with the venous system
+4 Phlegmatic is not easily excited to action.
+2 Phoenix is a mythical bird able to rise from its own ashes.
+2 Phonology, the study of vocal sounds
+1 Phrase is a series of words in grammatical construction and acting as a unit in a sentence.
+3 Phycology, the study of algae
+1 Physics is the science that deals with matter, energy, motion and force.
+2 Physiology, the study of the functions of living organisms
+2 Phytology, the study of plants; botany
+2 Phytopathology, the study of plant diseases
+2 Phytosociology, the study of the ecology of plant communities
+3 Piccolo is a small flute sounding an octave higher than an ordinary flute.
+1 Pickle is a cucumber that has been preserved in brine.
+2 Picturesque is visually charming or quaint.
+1 Piece is a separate or limited quantity of something.
+3 Pinafore is a child's apron.
+2 Pinnacle is a lofty peak.
+3 Pique is to affect with sharp irritation.
+2 Piranha is a small South American fish that eat fish, animals and sometimes attack humans.
+4 Pirogue is an American boat, a dugout.
+3 Pirouette is a whirling about on one foot or on the points of the toes, as in ballet dancing.
+1 Pixie is a fairy or sprite, especially a mischievous one.
+1 Pizza is a flat, baked pie of Italian origin, with various ingredients and toppings.
+2 Placard is a paperboard sign or notice.
+2 Placebo is a pill with no medicine but used to soothe a patient.
+2 Plagiarize is to take ideas and works of another and pass it off as one's own.
+1 Plague is an epidemic disease that causes high morality.
+1 Plaid is any fabric woven of differently colored yarns in a cross-barred pattern.
+2 Planetology, the study of planets and solar systems
+2 Planktology, the study of plankton
+2 Plaque is a tablet or plate of metal, intended for use as an ornament.
+2 Plateau is a land area having a relatively level surface considerably raised above adjoining land.
+1 Platypus is a small, egg-laying animal of Australia.
+3 Plebeian is belonging or pertaining to the common people.
+4 Plebiscite is a direct vote of the voters of a state in regard to some important public question.
+2 Plight is a condition or situation especially an unfavorable one.
+1 Plumber is a person who installs and repairs piping, fixtures, etc.
+1 Plural pertains to more than one.
+3 Pneumonia is inflammation of the lungs with congestion.
+2 Poignant is keenly distressing to the feelings.
+3 Poinsettia is sometimes called the Christmas flower.
+2 Poise is composure.
+1 Policy is a definite course of action.
+1 Politicize is to bring a political flavor to.
+1 Pollute is to make foul or unclear.
+2 Polychrome is being of many or various colors.
+3 Pomology, the scientific study of fruits
+1 Populace is the common people of a nation.
+2 Populous means heavily populated.
+1 Porridge is a food made of cereal, boiled to a thick consistency in water or milk.
+3 Posit is to place, put or set.
+3 Posology, the study of drug dosage
+3 Posse is a force armed with legal authority.
+1 Possess is to have as belonging to one; to own.
+2 Posterior is situated behind or at the rear of.
+2 Posthumous is arising, occurring, or continuing after one's death.
+1 Potency is power or authority.
+3 Potpourri is any mixture of unrelated objects, subjects, etc.
+2 Practitioner is a person engaged in the practice of a profession or occupation.
+1 Prairie is a tract of grassland; a meadow.
+1 Precede is to go before.
+2 Precinct is a district marked out for governmental purposes, or police protection.
+1 Precious is of high price or great value.
+1 Precise is definitely or strictly stated.
+2 Precocious is prematurely developed.
+2 Precursor is a person or thing that precedes.
+2 Prerogative is an exclusive right or privilege.
+2 Prescience is knowledge of things before they exist or happen.
+2 Prestigious is having a high reputation.
+1 Prey is an animal hunted or seized for food.
+2 Primatology, the study of primates
+1 Principal is first or highest in rank or importance.
+1 Principle is an accepted or professed rule of action or conduct.
+2 Proctology, the medical study of the rectum, anus, colon and pelvic floor
+2 Pronunciation is an accepted standard of the sound and stress patterns of a syllable or word.
+3 Propitious means favorable.
+3 Psalm is a sacred song or hymn.
+3 Psilosis means a falling out of the hair.
+3 Psoriasis is a common skin disease.
+2 Psychobiology, the study and psychology of organisms with regard to their functions and structures
+1 Psychology is the science of the mind or of mental states and processes.
+2 Psychopathology, the study of mental illness or disorders
+2 Psychopharmacology, the study of psychotropic or psychiatric drugs
+2 Psychophysiology, the study of the physiological bases of psychological processes
+4 Ptosis is a drooping of the upper eyelid.
+5 Pulchritude is physical beauty; comeliness
+2 Pulmonology, the specialty in medicine that deals with diseases of the lungs and the respiratory tract
+1 Purge is to cleanse or to purify.
+3 Pyrrhic is consisting of two short or unaccented syllables.
+1 Python is a big constricting snake.
+3 Quadriceps is a large muscle in front of the thigh.
+3 Quadrille is a square dance for four couples.
+4 Quaff is to drink a beverage.
+3 Quandary is a state of uncertainty.
+3 Quarantine is a strict isolation.
+3 Quartz is one of the most common minerals.
+3 Quash is to put down or suppress.
+4 Quay is a landing place along a body of water.
+2 Queer is strange or odd.
+4 Querulous means full of complaints.
+3 Questionnaire is a list of questions submitted for replies.
+3 Queue is a braid of hair or a line of people.
+3 Quiche is a dish with cheeses and other vegetables.
+3 Quiescent is being at rest; quiet; inactive.
+3 Quinella is a type of bet on horse races.
+3 Quintessence is the pure and concentrated essence of a substance.
+2 Quirk is a peculiarity.
+3 Quirt is a riding whip.
+4 Quoin is the external solid angle of a wall.
+5 Quotidian means daily.
+3 Rabble is a disorderly crowd; mob.
+1 Raccoon is an animal with a mask-like stripe across the eyes.
+2 Racquetball is a game similar to handball, but played with a racquet.
+1 Radiology, the study of rays, usually ionising radiation
+1 Raffle is a form of a lottery.
+1 Raise is to move to a higher position.
+1 Ramble is to wander around in an aimless manner.
+2 Rambunctious is difficult to control or handle.
+1 Rancid is having an unpleasant smell or taste.
+2 Rapier is a small sword, used for thrusting.
+2 Rappel is the way to move down a surface in mountaineering.
+2 Rapport is relation or connection.
+2 Rapture is ecstatic joy or delight.
+2 Rarefy is to make rare or rarer.
+1 Raspberry is the fruit of a shrub.
+2 Ratchet is a tool.
+1 Rationale is the fundamental reason serving to account for something.
+2 Raucous is harsh or strident.
+1 Ravenous means extremely hungry.
+1 Ravine is a narrow, steep-sided valley.
+1 Razor is an instrument used for shaving.
+1 Reactor is an apparatus in which a nuclear chain-reaction can be obtained.
+3 Recalcitrant means resisting authority.
+2 Recede means to go or move away.
+2 Receipt is a written acknowledgment of having received something.
+2 Receive is to take something into one's possession.
+1 Recess is a temporary withdrawal from work or activity.
+1 Recite is to repeat words from memory.
+1 Recluse is a person who lives apart or in seclusion.
+1 Recommend is to present as worthy of confidence or acceptance.
+3 Reconnaissance is the act of reconnoitering.
+2 Rectify is to make or set right.
+2 Recurrence is an act of something happening again.
+3 Redoubtable is that that is to be feared; formidable.
+1 Reduce is to bring down to a smaller amount.
+2 Reflexology, originally the study of reflexes or of reflex responses
+2 Refrigerator is a container in which items are kept cool or cold.
+1 Refugee is a person who flees his country in time of upheaval or war.
+3 Reggae is a style of Jamaican popular music.
+1 Regular is usual or normal.
+2 Regurgitate is to surge or rush back.
+2 Rehearse is to practice.
+2 Reign is the period during which a sovereign sits on a throne.
+2 Rein is the leather strap used to control a horse.
+1 Relieve is to ease or alleviate pain, distress or anxiety.
+1 Remembrance is a memory.
+2 Reminiscence is the process of recalling experiences.
+2 Reparable is capable of being repaired.
+2 Repartee is a quick, witty reply.
+3 Repugn is to oppose or refute.
+3 Requisition is the act of requiring or demanding.
+2 Rescind is to annul or repeal.
+2 Reservoir is a place where water is collected or stored.
+1 Resign is to give up an office or position.
+2 Respondent is a person who responds or makes replies.
+1 Resume is a summing up, a summary.
+2 Resurrection is the act of rising from the dead.
+2 Reticent is someone disposed to be silent or not to speak freely.
+4 Reveille is a signal to alert military personal to arise.
+1 Review is going over a subject.
+1 Revise is to amend or alter.
+3 Rhapsodic is ecstatic or extravagantly enthusiastic.
+2 Rheology, the study of flow
+2 Rhetoric is bombast or the undue use of exaggeration or display.
+2 Rheumatism is a disorder of the extremities or back, characterized by stiffness.
+2 Rheumatology, the study of rheumatic diseases
+1 Rhinoceros is a large African animal.
+2 Rhinology, the study of the nose
+2 Rhubarb is a plant of the buckwheat family.
+2 Rhyme is a word agreeing with another word in terminal sound.
+2 Rhythm is movement with uniform recurrence of a beat or accent.
+2 Ricochet is the motion of an object after deflecting from another object.
+1 Right is in accordance with what is good or just.
+1 Rigor is strictness, severity or hardness.
+3 Riposte is a quick, sharp return in speech or action.
+1 Ritual is a prescribed or established procedure.
+3 Rococo is a style of architecture and decoration.
+2 Rogue is a dishonest person, a scoundrel.
+3 Roil is to disturb or disquiet.
+4 Roseate is tinged with rose; rosy.
+1 Rotor is a rotating part of a machine.
+2 Rouge is any of various red cosmetics for cheek and lips.
+1 Rough is having a coarse or uneven surface.
+2 Roulette is a game of chance.
+2 Rouse is to bring out of a state of sleep.
+1 Routine is a customary or usual procedure.
+2 Rubella is a disease also called German measles.
+1 Rumor is a story without confirmation or certainty as to facts.
+2 Ruse is a trick.
+2 Sable is an Old World weasel-like animal.
+3 Saboteur is a person who commits sabotage.
+3 Saccharin is a sweetener.
+3 Sachet is a small bag containing perfuming powder or the like.
+4 Sacrilegious  is pertaining to the violation of anything sacred.
+4 Sacroiliac is the joint where the sacrum and ilium meet.
+3 Sacrosanct is extremely sacred or inviolable.
+2 Saffron is a crocus having showy, purple flowers.
+3 Sagacious showing acute mental discrenment, or being shrewd.
+3 Saguaro is a tall, horizontally branched cactus.
+1 Salaam is a salutation meaning peace, especially in Islamic countries.
+3 Salutatorian  is the person ranking second in the graduating class.
+3 Sanctimonious is making a hypocritical show of religious devotion.
+4 Sanguinary means full of bloodshed, bloody.
+2 Sapphire is a gem with a blue color.
+1 Sarcasm  is harsh or bitter derision or irony.
+3 Sarcology, a subsection of anatomy that studies the soft tissues
+4 Sarsaparilla is a soft drink made from the extract of a root.
+1 Satellite is a body that revolves around a planet, a moon.
+1 Satiate is to supply something to excess.
+1 Satyr is a mythological character, half human and half goat or horse.
+3 Sauerkraut is cabbage allowed to ferment until sour.
+1 Sauna is a bath that uses dry heat to induce perspiration.
+1 Scandalous is disgraceful or shocking behavior.
+1 Scarab is a beetle regarded as sacred by the ancient Egyptians.
+2 Scatology, the study of feces
+1 Scenario is the outline of a plot of a dramatic work.
+1 Scene is the place where some action or event occurs.
+ 1 Scent is a distinctive color.
+2 Scepter is a rod held as an emblem of regal or imperial power.
+1 Schedule is a plan of procedure.
+1 Scheme is an underhand plot, intrigue.
+3 Schiffli is a large, loomlike machine for working patterns in lace.
+3 Schism is division or disunion.
+3 Schizophrenia is a severe mental disorder.
+3 Schlock means cheap or trashy.
+4 Schnauzer is a German breed of medium-sized dogs.
+1 Scholar is a learned person.
+4 Schuss is a straight downhill run at high speed, skiing.
+4 Sciatic is pertaining to the back of the hip.
+1 Science is a branch of knowledge or study.
+3 Scimitar is a curved, single-edged sword.
+3 Scintillate is to emit sparks.
+2 Scissors is a cutting instrument.
+3 Scorpioid is resembling a scorpion.
+1 Scour is to remove dirt by hard scrubbing.
+3 Scourge is a cause of affliction or calamity.
+2 Scrimshaw is a carved article, especially of whale ivory.
+3 Scrivener is a scribe.
+1 Scrod is a young Atlantic codfish or haddock.
+1 Scruple is a moral standard that acts as a restraining force.
+1 Sculptor is a person who practices the art of sculpture.
+2 Scythe is an implement used to cut grass or grain by hand.
+2 Seance is a meeting in which people try to communicate with spirits.
+2 Sebaceous means fatty.
+1 Secede is to withdraw formally from an alliance.
+1 Seclude is to withdraw into solitude.
+1 Sedimentology, a branch of geology that studies sediments
+2 Sedulous means persevering.
+1 Segue (segway) means to continue at once with the next musical composition.
+2 Seine is a fishing net.
+3 Seismicity is the frequency of earthquakes in a given area.
+2 Seismology, the study of earthquakes
+1 Seize is to take hold of forcibly.
+2 Selenology, the study of the moon
+2 Semaphore is an apparatus for conveying visual signals.
+3 Seneschal is an officer having full charge of domestic arrangements.
+2 Sensuous means pertaining to or affecting the senses.
+2 Sentient means conscious.
+1 Separate means to keep apart or divide.
+5 Septuagenarian is between 70 and 80 years of age.
+3 Sepulcher is a tomb, grave or burial place.
+3 Sequacious means following with smooth or logical regularity.
+3 Sequester is to remove or withdraw into solitude or retirement.
+3 Sequoia is a large tree, aka redwood.
+3 Serendipity means good fortune or luck.
+2 Serge is a twilled fabric used for clothing.
+2 Sergeant is a noncommissioned officer above the rank of corporal.
+1 Serial is anything published in short installments at regular intervals.
+3 Serology, the study of blood serum
+2 Serrate is notched on the edge like a saw.
+2 Setaceous is bristlelike.
+3 Severance is the act of severing or the state of being severed.
+1 Sew is to join or attach by stitches.
+1 Sexton is a church official charged with taking care of the edifice and its contents.
+1 Shackle is something used to secure the wrist, leg, etc.
+1 Sheaf is a bundle of wheat, rye, etc.
+1 Shear is to cut something.
+3 Sheathe is to put a sword into a sheath.
+1 Sheen is luster, brightness, radiance.
+1 Sheer is transparently thin.
+1 Shepherd is a person who tends or guards sheep.
+1 Sheriff is the law-enforcement officer of a county.
+1 Shield is a piece of armor worn on the arm of defensive purposes.
+2 Shoal is a place where a body of water is shallow.
+1 Shrew is a woman of violent temper and speech.
+1 Shroud is a cloth or sheet in which a corpse is wrapped for burial.
+2 Sibyl is a female prophet or witch.
+2 Siege is the act of surrounding and attacking a fortified place in such a way as to isolate it from aid or supplies.
+1 Sierra is a chain of hills or mountains, the peaks of which suggest the teeth of a saw.
+2 Sieve is an instrument with a meshed bottom, used to separate materials.
+1 Sigh is to let out one's breath audibly.
+1 Sight is the power or faculty of seeing.
+1 Sign is a token or indication.
+4 Silhouette is a two-dimensional representation of the outline of an object.
+1 Simile is a figure of speech in which two unlike things are compared, as in she is like a rose.
+3 Simultaneous is occurring or operating at the same time.
+1 Sincere is free of deceit or falseness.
+1 Singe is to burn slightly, to scorch.
+3 Siphon is a tube bent into legs of unequal length, for getting liquid from one container to another.
+1 Site is the position or location of something.
+3 Sitiology, the study of diet
+2 Skein is a length of yarn wound on a reel for use in manufacturing
+2 Skeptic is a person who questions the validity of something.
+1 Skew is to turn aside or swerve.
+1 Skink is a lizard common in both the Old and New worlds.
+2 Slaughter is the killing of cattle, etc., for food.
+2 Sleazy means contemptibly low or disreputable.
+1 Sleigh is a vehicle on runners, especially used over snow or ice.
+2 Sleight is skill or dexterity.
+2 Sleuth is a detective.
+1 Sloe is the small, sour fruit of the blackthorn.
+1 Slough (sloo) is an area of soft, muddy ground.
+2 Sluice is an artificial channel for conducting water.
+1 Soccer is football as it is played around the world.
+2 Sociobiology, the study of the effect of evolution on ethology
+2 Sociology, the study of society
+2 Sojourn is a temporary stay.
+1 Solder is an alloy fused and applied to the joint between metal objects to unite them.
+2 Solecism is a nonstandard or ungrammatical usage.
+3 Solemn is grave or sober or mirthless.
+3 Soliloquy is a discourse by a person who is talking to himself.
+2 Somatology, study of human characteristics
+2 Somnology, the study of sleep
+2 Sorcerer is a person who practices black magic.
+2 Sorghum is a cereal grass.
+1 Source is anything from which something comes or arises.
+2 Souvenir is a usually inexpensive reminder of a place visited.
+2 Sovereign is a monarch or a king.
+2 Spaghetti is a white, starchy pasta of Italian origin.
+1 Spasm is a sudden involuntary muscular contraction.
+3 Speciesism is discrimination in favor of one species over another.
+2 Specious is apparently good or right though lacking real merit.
+2 Specter is a ghost, phantom or apparition.
+3 Speleology, the study or exploration of caves
+2 Sphinx is a figure of a creature having the head of a man or animal and the body of a lion.
+2 Spinet is a small upright piano.
+1 Sponsor is a person who vouches for or is responsible for a person.
+3 Squabble is to engage in a petty quarrel.
+3 Squalor is filth or misery.
+1 Squeak is a short, sharp, shrill cry.
+3 Squeegee is an implement edged with rubber to remove water from windows or floors.
+1 Squint is to look with the eyes partly closed.
+3 Staid means of settled character, not flighty.
+3 Stanchion is an upright bar as in a window or stall.
+3 Stationary means standing still, not moving.
+3 Stationery is writing paper.
+2 Stature is the height of a human or animal body.
+2 Stiletto is a short dagger with a thick blade.
+2 Stimulus is something that incites to action or exertion.
+2 Stomatology, the study of the mouth
+3 Strafe is to attack by airplanes with machine-gun fire.
+2 Straight is without a bend or angle, not curved.
+2 Strait is a narrow passage of water between 2 larger bodies of water.
+2 Straitjacket is a garment made of strong material and designed to bind the arms.
+2 Strength is the quality or state of being strong.
+4 Stroganoff is a dish of meet sauteed with onions and cooked in a sauce of sour cream.
+4 Strontium is a strong, metallic element.
+5 Strychnine is a colorless, crystalline poison.
+3 Sturgeon is a large fish, valued as a source of caviar.
+3 Suave is smoothly agreeable or polite.
+5 Subcutaneous means lying under the skin, as tissue.
+3 Submersible is that which is capable of being submerged.
+4 Subpoena is the usual writ for the summoning of witnesses.
+3 Subtle is thin, tenuous or delicate in meaning.
+4 Successor is a person or thing that succeeds or follows.
+3 Succinct means expressed in few words, concise, terse.
+3 Suede is kid or other leather finished with a soft, nappy surface.
+3 Sufficiency is adequacy.
+5 Suffrutescent is partially or slightly woody.
+2 Suite is a number of things forming a set.
+3 Superintendent is a person who oversees or directs some work.
+2 Supersede is to replace in power, or acceptance.
+2 Supervisor is a person who supervises the work done by others.
+2 Supposition is something that is supposed; assumption.
+2 Surcease is to cease from some action; desist.
+2 Surety is security against loss or damage.
+2 Surfeit means excess; an excessive amount.
+2 Surrey is a light carriage for four persons.
+2 Surrogate is a person appointed to act for another; a deputy.
+3 Surveillance is a watch kept over a person or group.
+2 Suzerain is a state exercising political control over a dependent state.
+3 Svelte is gracefully slender; lithe.
+1 Swerve is to turn aside abruptly.
+1 Sword is a weapon consisting of a blade and a hilt.
+2 Sycamore is a North American tree.
+3 Sycophancy is self-seeking or servile flattery.
+2 Sylph is a slender, graceful woman or girl.
+3 Symposium is a meeting to discuss some subject.
+3 Symptomatology, the study of symptoms
+2 Syncopate is to place accents on beats in music normally not accented.
+2 Synecology, the study of the ecological interrelationships
+2 Synod is an assembly of church delegates.
+3 Synonym is a word having nearly the same meaning as another.
+2 Syntax is the study of the rules for the formation of grammatical sentences in a language.
+2 Tabasco is a trademark name for a condiment sauce.
+3 Tabernacle is a place or house of worship.
+3 Tableau is a picture of a scene.
+2 Tablespoonful is the amount a tablespoon can hold.
+2 Tabloid is a newspaper whose pages are about half the size of a standard-sized newspaper.
+2 Tabular means arranged into a table.
+2 Tachometer is a machine to measure velocity or speed.
+2 Tachymeter is an instrument to rapidly determine distances.
+3 Taciturn means inclined to silence.
+1 Tackle is equipment, apparatus or gear, especially for fishing.
+1 Tacky is not tasteful or fashionable.
+1 Tact is a sense of what to say without raising offense.
+1 Tactician is a person who is adept at planning tactics.
+1 Taffeta is a medium- or light-weight fabric.
+1 Taffy is a chewy candy.
+1 Tail is the hindmost part of an animal.
+1 Tailor is a person who makes, mends or alters clothing.
+1 Taint is a trace of something bad or harmful.
+1 Tale is a narrative that relates details or some event or incident.
+2 Talisman is an object that is supposed to possess powers.
+1 Talk is to communicate by speaking.
+2 Tallow is the fatty tissue of animals.
+1 Tally is an account or reckoning.
+1 Talon is the claw of a bird of prey.
+2 Tamarind is the pod of a large tropical tree.
+3 Tambourine is a small drum consisting of a circular frame with skin stretched over it and several pairs of metal jingles attached.
+3 Tamburitza is a mandolinlike instrument of southern Slavic regions.
+3 Tanager is a songbird found in North America.
+2 Tandem is one following or behind the other.
+1 Tangible is capable of being touched.
+2 Tankard is a large drinking cup.
+3 Tantalize means to torment with.
+2 Tantrum is a violent demonstration of rage.
+2 Tapestry is a fabric used for wall hangings or furniture coverings.
+1 Tapir is a three-toed animal resembling a pig in Central and South America.
+2 Tarantella is a rapid, whirling Italian dance.
+2 Tarantula is a large, hairy spider.
+1 Tardy means late.
+2 Tariff is a list showing duties imposed on imports or exports.
+2 Tarot is a card used for fortunetelling.
+2 Tarry is to remain or stay awhile.
+1 Tassel is an ornament consisting of a bunch of threads hanging from a round knob, used on clothing or jewelry.
+1 Tattle is to let out secrets.
+1 Tattoo is an indelible marking on the skin.
+1 Taught is the past participle of teach.
+1 Taunt means to mock.
+3 Taupe (tohp) is a brownish gray.
+1 Taut means tightly drawn.
+1 Taw is a fancy marble used as a shooter.
+2 Tawdry means showy or cheap.
+2 Tawny is a shade of brown tinged with yellow.
+2 Taxable means capable of being taxed.
+1 Tea is something to drink.
+1 Teak is a large East Indian tree.
+1 Tease is to irritate or provoke.
+1 Technique is the manner in which the technical skills of a particular art or field of endeavor are used.
+1 Technology, the study of the practical arts
+1 Tedious means long and tiresome.
+1 Tee is a golfer's aid.
+2 Teeter means to move unsteadily.
+1 Teethe means to grow or cut teeth.
+1 Telegraph is an apparatus to send messages to a distant place.
+1 Telepathy is communication between minds.
+1 Telephone is an apparatus to send sound to distances.
+1 Telescope is an instrument to make distant objects appear larger.
+3 Temblor is a tremor; earthquake.
+3 Tempestuous means tumultuous or turbulent.
+1 Tempt means to entice or allure to do something often considered wrong.
+2 Tenacious means holding fast.
+3 Tenement is a rundown, often overcrowded apartment house.
+1 Tenet is a principle, doctrine or dogma.
+1 Tenor is the meaning that runs through something written or spoken.
+1 Tense is stretched tight; high-strung or nervous.
+1 Tension is the act of stretching or straining.
+1 Tequila is a strong liquor from Mexico.
+3 Termagant is a violent or brawling woman.
+3 Tern is an aquatic bird.
+2 Terrace is a raised level with a vertical or sloping front or sides.
+2 Terrain is a tract of land.
+4 Terrarium is a container for land animals.
+1 Terse is neatly or effectively concise; brief and pithy.
+1 Tertiary is of the third order.
+4 Testatrix is a woman who makes a will.
+3 Tetanus is a disease, commonly called lockjaw.
+3 Tetrabrach is a word of four short syllables.
+3 Thalassic is of or pertaining to seas or oceans.
+1 Thatch is a material used to cover roofs.
+1 Thaw is to pass from a frozen to a liquid state.
+1 Theme is a subject of discourse or discussion.
+2 Thence means from that place.
+1 Theocracy is a form of government in which a deity is recognized as the supreme civil ruler.
+2 Therapeutics is the branch of medicine concerned with the remedial treatment of disease.
+1 Thermology, the study of heat
+1 Thermometer is a device for measuring temperature.
+2 Thesaurus is a dictionary of synonyms and antonyms.
+1 Thesis is a proposition put forth to be considered.
+1 Thief is a person who steals.
+1 Thigh is between the hip and the knee.
+1 Thimble is a small cap, worn over the fingertip to protect it when pushing a needle through a cloth in sewing.
+1 Third is next after the second.
+2 Thistle is a prickly plant.
+3 Thoracic is of or pertaining to the thorax.
+3 Thorough is executed without negligence or omissions.
+1 Thought is the product of mental activity.
+1 Thrall is one who is in bondage; slave.
+1 Threshold is the sill of a doorway.
+1 Thumb is the short, thick inner digit of the human hand.
+1 Tiara is a jeweled coronet worn by women.
+1 Tier is one of a series of rows rising one behind or above another.
+1 Tight is firmly or closely fixed in place.
+2 Timbre is the characteristic quality of a sound.
+3 Tinct is to tinge or tint, as with color.
+1 Tinsel is a glittering, metallic substance, usually in strips.
+1 Tissue IS as in tissue paper.
+1 Titanic meaning gigantic.
+2 Titillate is to excite agreeably.
+3 Titlist is a titleholder, champion.
+1 Tizzy is a nervous or agitated state.
+1 Toad is an amphibian, a close relative of the frog.
+1 Toast is sliced bread that has been browned by heat.
+2 Tobacco is the plant used in making cigarettes.
+3 Toboggan is a long, narrow, flat-bottomed sled.
+2 Tocology, the study of childbirth
+1 Tofu is a bland, cheeselike food, high in protein content.
+1 Tombstone is a marker on a tomb or grave.
+1 Tome is a large, heavy book.
+1 Tongue is the movable organ in the mouth of humans.
+2 Tonsillectomy is the operation removing one or both tonsils.
+1 Topaz is a mineral used as a gem.
+2 Topology, the mathematical study of closeness and connectedness
+2 Toque is a brimless and close-fitting hat for women.
+2 Torque is something that produces rotation.
+2 Tortoise is a turtle, especially a land turtle.
+2 Tortuous means full of twists or turns.
+1 Toucan is a large-billed, brightly colored bird.
+1 Tough means strong and durable.
+2 Toupee is a man's wig.
+4 Tourniquet is a device for arresting bleeding.
+2 Tout is to solicit business.
+1 Toxicity is the degree of being poisonous.
+1 Toxicology, the study of poisons
+1 Traceable is capable of being traced.
+1 Trachea is the windpipe.
+1 Traduce means to slander or defame.
+2 Traipse is to walk or go aimlessly or idly.
+1 Trait is a distinguishing characteristic or quality.
+1 Trample is to tread or stamp heavily.
+1 Tranquil is calm or peaceful.
+1 Transcend is to rise above or go beyond.
+1 Transient means not lasting or enduring.
+3 Translucent is letting pass through, but not clearly.
+1 Trapeze is an apparatus consisting of a horizontal bar attached to two suspending ropes.
+1 Trauma is a body wound or shock produced by sudden physical injury.
+2 Traumatology, the study of wounds and injuries.
+3 Travois is a transporting device pulled by an animal.
+2 Treacle is contrived sentimentality.
+2 Trestle is a type of frame, used in railroad spans.
+1 Tribology, the study of friction and lubrication
+2 Trichology, the study of hair and the scalp
+1 Trichotomy means divided into three parts.
+1 Tricycle is a three-wheeled vehicle for children.
+5 Triskaidekaphobia is a fear of the number 13.
+1 Trivial means of little significance or importance.
+5 Troglodyte is a prehistoric cave dweller.
+4 Troika is a team of 3 horses driven abreast.
+2 Trough is a receptacle, usually for drinking from.
+2 Troupe is a group of actors or performers, esp. travelers.
+4 Trousseau is clothing, linen, especially for a bride.
+2 Truancy is the act of being truant or late.
+3 Truculent is fierce or savagely brutal.
+3 Truncheon is a club carried by a police officer.
+2 Tryst is an appointment to meet at a certain time and place.
+4 Tumescent means swelling.
+1 Typewriter is a machine to produce letters and characters on paper.
+1 Typology, the study of classification
+3 Tyrannize is to exercise absolute control or power.
+4 Ubiquitous means omnipresent or being everywhere at the same time.
+3 Ukulele is a small, guitar-like instrument.
+1 Ulcer is a sore on the skin.
+5 Umlaut is a mark used over a vowel.
+2 Unanswerable is not capable of being answered.
+1 Uncollectible means it can't be collected.
+4 Unconscionable means unscrupulous or not guided by conscience.
+3 Unconscious means without awareness or cognition.
+1 Unkempt is disheveled or messy.
+2 Unrequited is not returned or reciprocated.
+2 Unwonted is not customary or usual or rare.
+1 Urology, the study of the urogenital tract.
+2 Vaccinal pertaining to vaccine or vaccination.
+2 Vaccinology, the study of vaccines
+1 Vacillate means to waver in opinion.
+2 Vacuous means empty.
+1 Vacuum is a space entirely devoid of matter.
+2 Vague is not clearly expressed or identified.
+1 Vanilla IS as in the flavor.
+5 Variscite is a secondary mineral.
+5 Vaudeville is a theatrical entertainment.
+1 Vehemence meaning ardor or fervor.
+2 Veneer is a thin layer of wood.
+3 Vengeance means violent revenge or getting back.
+4 Ventriloquism means throwing the voice.
+5 Verisimilitude means the appearance of truth.
+3 Vermicelli is a form of pasta.
+3 Vertebrae are bones composing the spinal column.
+5 Vertiginous means whirling or spinning.
+5 Vexillology means the study of flags.
+5 Vicissitude means a change in the course of things.
+3 Victuals are food supplies.
+1 Villain is a cruelly malicious person.
+2 Villein was an almost free person in the middle ages.
+4 Virescent means turning green.
+2 Virology, the study of viruses
+3 Viscera are the organs in the abdominal cavity.
+2 Viscid means sticky.
+2 Viscount is a nobleman just below an earl or count.
+5 Vociferous is crying out noisily.
+1 Vogue means something in fashion.
+1 Volcanology (or vulcanology), the study of volcanoes
+2 Vorticity is a measure of the circulation of a fluid.
+1 Vying is competing or contending.
+1 Waive is to give up or to forgo.
+1 Warranty is assurance.
+3 Waterborne is floating or moving on water.
+1 Weigh is to determine the force of gravity on an object by using a scale.
+1 Weird is unearthly or uncanny.
+1 Whack is to strike with a sharp blow or blows.
+2 Wheelwright is a person whose trade is to make wheels.
+1 Wherever is in, at or to whatever place.
+2 Whet is to sharpen by grinding or friction.
+2 Whippoorwill is a nocturnal North American bird.
+2 Widgeon is a common, freshwater duck.
+1 Wield is to exercise power or authority.
+3 Wildebeest is a gnu.
+1 Wince is to draw back or tense the body.
+1 Wok is a pan used in cooking Chinese food.
+1 Wrack is wreck or wreckage.
+2 Wraith is a visible spirit.
+1 Wreak to inflict or execute as punishment or vengeance.
+4 Wren is a small, active songbird.
+3 Xenobiology, the study of non-terrestrial life
+3 Xenophobe is a person who fears or hates foreigners.
+1 Xylology, the study of wood
+1 Xylose is a colorless crystalline sugar.
+2 Xyster is a surgical instrument for scraping bones.
+1 Yacht is a private cruising vessel.
+3 Yeoman is a petty officer in a navy.
+1 Yolk is the yellow substance of an egg.
+5 Ytrium is a rare metallic element.
+2 Yurt is a tentlike dwelling of the Mongols.
+5 Zephyr is a gentle breeze.
+4 Zeppelin is a rigid airship or dirigible.
+5 Zinciferous means yielding or containing zinc.
+3 Zoanthropy (zoo) is a mental disorder in which one believes oneself to be an animal.
+2 Zooarchaeology, the study and analysis of animal remains at archaeological sites to reconstruct relationships between people, animals, and their environment
+1 Zoological is of or pertaining to zoology.
+1 Zoology, the study of animals.
+1 Zoopathology, the study of animal diseases
+4 Zoopraxiscope is an early motion projector.
+1 Zoopsychology, the study of mental processes in animals
+5 Zucchetto is a skullcap worn by Roman Catholic ecclesiastics.
+2 Zucchini is a variety of summer squash.
+4 Zymology, the study of fermentation
