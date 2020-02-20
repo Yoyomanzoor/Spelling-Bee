@@ -21,9 +21,11 @@ def initialize(wordlist):
 
     difficulty = categorize(list(zip(words,difficulty)))
 
-    return(difficulty,words,definitions)
+    used_words = {'1':[],'2':[],'3':[],'4':[],'5':[]}
 
-def start_game(words, definitions, difficulty, used_words = {'1':[],'2':[],'3':[],'4':[],'5':[]}):
+    return(difficulty,words,definitions,used_words)
+
+def start_game(words, definitions, difficulty, used_words):
 
     difficulty_choice = Dropdown(options=['1','2','3','4','5'],description="Difficulty")
 
