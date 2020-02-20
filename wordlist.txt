@@ -1265,7 +1265,7 @@
 2 Scatology, the study of feces
 1 Scenario is the outline of a plot of a dramatic work.
 1 Scene is the place where some action or event occurs.
- 1 Scent is a distinctive color.
+1 Scent is a distinctive color.
 2 Scepter is a rod held as an emblem of regal or imperial power.
 1 Schedule is a plan of procedure.
 1 Scheme is an underhand plot, intrigue.
